@@ -1,5 +1,10 @@
 拜年 bainian - 作者:章仕烜  
 
+微信祝福机器人，v0.1.
+支持:
+    1.批量发送文本祝福
+    2.微信轰炸机
+
 首先需要保证你的环境是python 3+
 1.安装itchart
 pip3 install itchat
